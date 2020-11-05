@@ -17,9 +17,9 @@ LaTeX template (PDFLaTeX) for PSERC Project (Final) Report
 
 ## Notes
 - Complied files: `part1.pdf` and `part2.pdf`.
-- If your report only has one part, then just use `part1.tex` and remove the second title page "Part 1".
+- If your report only has one part, then you can just use `part1.tex` and remove the second title page "Part 1".
 - Many places are hard-coded, e.g., make the titles `Table of Contents` and `List of Figures` top-centered and 1 inch from the top margin.
-- Please create issues if there are format issues.
+- Please create issues if there are other formatting issues.
 
 
 Created by Xinbo Geng and Athindra Venkatraman, with the assist of 20+ emails on formatting issues from PSERC.
