@@ -13,7 +13,7 @@ LaTeX template (PDFLaTeX) for PSERC Project (Final) Report
   - then main body of the report. 
 - `part2-template.tex`, for the second part (if necessary) of the project report.
 
-*This github repo is created to prevent future graduate students or researchers from wasting tens of hours on formatting a PSERC report.*
+*This github repo is created to save time for future graduate students or researchers when writing PSERC reports.*
 
 Power Systems Engineering Research Center (PSERC)
 
