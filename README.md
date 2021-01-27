@@ -24,4 +24,4 @@ Power Systems Engineering Research Center (PSERC)
 - Please create issues if there are other formatting issues.
 
 
-Created by Xinbo Geng (Texas A&M) and Athindra Venkatraman (Texas A&M), with the assist of 20+ emails on formatting issues from Taylor Leavitt (PSERC).
+Created by Xinbo Geng (Texas A&M) and Athindra Venkatraman (Texas A&M), with the assistance of too many emails on formatting issues from Taylor Leavitt (PSERC, thanks!).
